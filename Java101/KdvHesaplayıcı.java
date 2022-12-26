@@ -21,4 +21,4 @@ public class KDV {
     }
 }
 
-//https://app.patika.dev/
+//https://www.patika.dev/
