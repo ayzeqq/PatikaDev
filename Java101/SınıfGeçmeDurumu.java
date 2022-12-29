@@ -36,3 +36,4 @@ public class SınıfGeçmeDurumu {
     }
     }
 }
+//www.patika.dev
