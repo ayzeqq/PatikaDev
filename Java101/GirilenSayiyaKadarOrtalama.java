@@ -5,6 +5,10 @@ public class GirilenSayiyaKadarOrtalama {
         Scanner input=new Scanner(System.in);
         System.out.println("Bir sayı giriniz: ");
         int sayi=input.nextInt();
+        while(sayi<=0){
+            System.out.println("0'dan büyük bir sayı giriniz: ");
+            sayi=input.nextInt();
+        }
         int result=0;
         int count=0;
         for(int i=1;i<sayi;i++){
