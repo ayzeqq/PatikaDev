@@ -31,6 +31,15 @@ public class Course {
     }
 
     public double calcNote () {
-        return note*0.8+sozluNote*0.2;
+        if(this.name.equals("Matematik")){
+            return note*0.8+sozluNote*0.2;
+        }
+        if(this.name.equals("Fizik")){
+            return note*0.7+sozluNote*0.3;
+        }
+        if(this.name.equals("Kimya")){
+            return note*0.75+sozluNote*0.25;
+        }
+        return 0;
     }
 }
