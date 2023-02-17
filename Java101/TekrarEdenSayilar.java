@@ -30,3 +30,4 @@ public class TekrarEdenSayilar {
       }
     }
 }
+//www.patika.dev
