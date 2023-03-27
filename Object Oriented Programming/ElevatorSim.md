@@ -1,2 +1,3 @@
-![Asansör UML](https://user-images.githubusercontent.com/99403758/227815313-356e6ac0-ddd5-4ff9-b755-98ce25aedcde.png)
+![Asansör UML (1)](https://user-images.githubusercontent.com/99403758/227815508-4c717d4f-aabe-4488-83cd-a63f5f7707d5.png)
+
 www.patika.dev
